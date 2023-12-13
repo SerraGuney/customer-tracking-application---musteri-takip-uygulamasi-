@@ -1,0 +1,7 @@
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\MONSTER\Documents\C#\githupa yükenicekler\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
